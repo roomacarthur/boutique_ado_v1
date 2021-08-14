@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     # project specific apps.
     'home',
+    'products',
 
 ]
 
